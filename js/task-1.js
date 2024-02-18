@@ -9,7 +9,7 @@ const customer = {
   getDiscount() {
     return this.discount;
   },
-  
+
   setDiscount(value) {
     this.discount = value;
   },
